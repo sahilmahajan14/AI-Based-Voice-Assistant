@@ -420,6 +420,3 @@ def sendEmail(to, content):
             except StopIteration:
                 print ("No results")
  
-        # elif "" in query:
-            # Command go here
-            # For adding more commands
